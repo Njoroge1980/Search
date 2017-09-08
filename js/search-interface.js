@@ -1,9 +1,10 @@
-var Repos = require(. / .. / js / search.js).reposModule;
+var Repos = require('./../js/search.js').reposModule;
 
 $(document).ready(function() {
+  var newRepo = new Repos
   $('#btn').click(function() {
     var name = $('#name')
     // return (name)
-    console.log(name)
+    newRepo.getRepos();
   });
 });
