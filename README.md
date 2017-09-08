@@ -1,18 +1,11 @@
 # Search
 
-
-
-
-
-By:
-
-
-Njoroge Mungai
+By:Njoroge Mungai
 
 Description
 
 Here you can search  developer's work from GitHub
-This app can be cloned at                                     To open it, extract the file and then view it in your browser.
+This app can be cloned at    https://github.com/Njoroge1980/Game-Time.git   To open it, extract the file and then view it in your browser.
 
 Known Bugs
 
@@ -25,6 +18,7 @@ CSS
 Bootstrap
 Javascript
 Jquery 3.2.1
+
 Support and contact details
 
 In case you run into any problems while installing or using the app or for further comments, you can reach the team at
