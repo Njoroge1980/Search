@@ -26,4 +26,4 @@ njorogemungai980@gmail.com
 
 License
 
-MIT Copyright (c) 2017 Faida Software
+MIT Copyright (c) 2017 Njoroge Mungai
